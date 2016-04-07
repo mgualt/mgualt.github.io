@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mgualt.github.io
+title: mgualtemp
+paginate: 10
